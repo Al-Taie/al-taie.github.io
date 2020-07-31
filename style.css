@@ -1,5 +1,5 @@
 body {
-    height: 35vh;
+    height: 0vh;
     max-width: 100vw;
     color: #f8f8f8;
     background-color: #1f1f1f;
@@ -8,11 +8,11 @@ body {
 }
 
 .container {
-    margin-top: 9em;
+    margin-top: 6em;
     font-size: medium;
     line-height: 2rem;
     text-align: center;
-    padding-bottom: 1.5em;
+    padding-bottom: 2em;
 }
 
 footer{
